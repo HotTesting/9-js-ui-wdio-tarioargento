@@ -1,0 +1,15 @@
+{
+  "name": "tario",
+  "version": "1.0.0",
+  "private": true, 
+  "description": "First auto-test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StartITProtractorJS/9-js-ui-wdio-tarioargento.git"
+  },
+  "author": "Tario Argento <trsfnn@gmail.com>",
+  "license": "MIT"
+}
